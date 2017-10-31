@@ -1,8 +1,8 @@
 # PHYS220 CW 7
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Baylee Mumma, Christine Outlaw, Kristen Peet**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-07-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-07-baylee-christine-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-07-baylee-christine-kristen)
 
 ## Specification
 
